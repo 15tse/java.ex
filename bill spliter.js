@@ -1,4 +1,4 @@
-let totalbill=250;
+let totalbill=350;
 let numberofpeople=5;
 let tip=10;
 let tax=10;
