@@ -1,4 +1,4 @@
-let dayoftheweek=7;
+let dayoftheweek=4;
 switch(dayoftheweek){
     case 1:  
     nameoftheday='monday';
